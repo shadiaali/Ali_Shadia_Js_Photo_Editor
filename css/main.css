@@ -1,0 +1,20 @@
+#pic{
+    height:400px;
+    width:400px;
+}
+.saturate {
+    -webkit-filter: saturate(6);
+    filter: saturate(6);
+
+}
+
+.grayscale {
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+
+}
+
+.invert {
+    -webkit-filter: invert(100%);
+    filter: invert(100%);
+}
